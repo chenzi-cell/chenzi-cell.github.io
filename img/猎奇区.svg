@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="猎奇区.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.74"
+     inkscape:cx="240.8046"
+     inkscape:cy="208.33333"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#a6d9ff;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#c5f8ff;stop-opacity:0;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#bebebe;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#d7d7d7;stop-opacity:0;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="0.45617825"
+       y1="50.635773"
+       x2="100.20714"
+       y2="50.635773"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99695122,0,0,1,0.00139079,0)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="radialGradient4"
+       cx="15.093887"
+       cy="18.207832"
+       fx="15.093887"
+       fy="18.207832"
+       r="20.089909"
+       gradientTransform="matrix(0.29119663,0.23706189,-1.8852605,2.3157729,45.025106,-27.535558)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="radialGradient6"
+       cx="75.953667"
+       cy="56.566093"
+       fx="75.953667"
+       fy="56.566093"
+       r="5.8345181"
+       gradientTransform="matrix(26.080242,2.2558024,-0.28234184,0.65105646,-1882.0467,-151.59809)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <ellipse
+     style="fill:url(#radialGradient6);stroke:#ffffff;stroke-width:0.389416;stroke-opacity:0"
+     id="path4"
+     cx="82.872368"
+     cy="56.566093"
+     rx="12.558513"
+     ry="3.739068" />
+  <rect
+     style="fill:url(#linearGradient2);stroke-width:0.264179"
+     id="rect1"
+     width="99.446846"
+     height="2.1288302"
+     x="0.45617825"
+     y="49.571358" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="spiral"
+       style="fill:url(#radialGradient4);fill-rule:evenodd;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:0"
+       id="path2"
+       sodipodi:cx="13.229166"
+       sodipodi:cy="20.071838"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="22.482174"
+       sodipodi:argument="-18.325377"
+       sodipodi:t0="0"
+       d="m 13.229166,20.071838 c 0.975874,0.564177 -0.279037,1.593804 -0.937699,1.621967 -1.784933,0.07632 -2.6327343,-2.009448 -2.3062349,-3.497365 0.5840309,-2.661534 3.6506299,-3.774826 6.0570319,-2.990502 3.53149,1.151026 4.942962,5.311255 3.67477,8.616697 C 18.026733,28.22827 12.738622,29.944363 8.5406702,28.181673 3.2579766,25.963508 1.2347743,19.533081 3.4973643,14.445643 6.2376639,8.2840751 13.817822,5.9524685 19.79306,8.7180697 26.834672,11.977235 29.475464,20.71144 26.204902,27.573432 22.428908,35.495873 12.53792,38.446367 4.7898734,34.669541 -4.0139496,30.378072 -7.274503,19.328456 -2.9905035,10.694847 1.8154964,1.0092419 14.025045,-2.5616334 23.543857,2.2302018 34.111543,7.5500472 37.992937,20.920484 32.69277,31.324228"
+       transform="translate(1.5205939,17.33477)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.414px;font-family:'Kunstler Script';-inkscape-font-specification:'Kunstler Script';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:2.20117"
+       x="5.6694169"
+       y="36.341599"
+       id="text1"
+       transform="scale(0.7524847,1.3289307)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Kunstler Script';-inkscape-font-specification:'Kunstler Script';stroke-width:2.20117"
+         x="5.6694169"
+         y="36.341599">Curiosity Section</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.65558px;font-family:LiSu;-inkscape-font-specification:LiSu;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#ffffff;stroke-width:0.721297;stroke-opacity:0"
+       x="91.991028"
+       y="45.504272"
+       id="text4"
+       transform="scale(0.79991694,1.2501298)"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:LiSu;-inkscape-font-specification:LiSu;stroke-width:0.721297"
+         x="91.991028"
+         y="45.504272">猎奇区</tspan></text>
+  </g>
+</svg>
